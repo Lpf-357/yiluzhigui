@@ -1,3 +1,4 @@
+# 具体使用说明见 https://openspg.yuque.com/ndx6g9/docs/zxh5a5dr03945l1x
 version: "3.7"
 services:
   server:
